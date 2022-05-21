@@ -9,7 +9,7 @@ Simply download the contents of this repository. This template is fully customis
 ### Version 1
 1. Contains ordered list of sections in numerical order.
 2. Appendices and Nomenclature sections are numbered at the bottom of the list.
-3. Ability to implement MATLAB code via \begin{lstlisting} command.
+3. Ability to implement MATLAB code via \begin{lstlisting} ## \end{lstlisting} command.
 4. Custom colours.
 5. Custom bibliography style.
 6. Custom mathematical commands for easy use.
